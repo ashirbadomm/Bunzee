@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d99f5c96396523949934a86e2c4c787a
+timeCreated: 1474561198
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - League Gothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 420d1696253748f4eb99d1165dd6736e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
